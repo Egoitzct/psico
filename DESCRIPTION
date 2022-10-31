@@ -13,3 +13,5 @@ RoxygenNote: 7.2.1
 Imports: 
     psych,
     sur
+URL: https://github.com/Egoitzct/psico
+BugReports: https://github.com/Egoitzct/psico/issues
