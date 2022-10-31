@@ -1,0 +1,29 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# psico
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of psico is to provide a bunch of useful functions for psychology.
+
+## Installation
+
+You can install the development version of psico like so:
+
+``` r
+devtools::install_github("Egoitzct/psico")
+```
