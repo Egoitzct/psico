@@ -6,12 +6,12 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of psico is to provide a bunch of useful functions for
-psychology.
+El objetivo de psico es proporcionar funciones que permitan analizar
+datos de forma más sencilla.
 
-## Installation
+## Instalacion
 
-You can install the development version of psico like so:
+Puedes instalar psico de la siguiente manera:
 
 ``` r
 devtools::install_github("Egoitzct/psico")

@@ -4,7 +4,7 @@
 \alias{asimetry}
 \title{Asimetria}
 \usage{
-asimetry(x)
+asimetry(x, n)
 }
 \arguments{
 \item{x}{Grupo de datos numericos.}
@@ -13,9 +13,9 @@ asimetry(x)
 El valor de la asimetria y su error estandar
 }
 \description{
-Una funcion que nos permite sacar el valor de la asimetria y su error estandar
-usando funciones que podemos encontrar en los paquetes \code{\link{psych}} y \code{sur}.
+Una funcion que nos permite sacar el valor de la asimetria, la curtosis y el error estandar de
+ambas usando funciones que podemos encontrar en los paquetes \code{\link{psych}} y \code{sur}.
 }
 \examples{
-asimetry(c(10,2,35,43))
+asimetry(c(10,2,35,43), 500)
 }

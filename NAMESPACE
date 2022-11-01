@@ -2,5 +2,6 @@
 
 export(asimetry)
 export(muestra)
+importFrom(psych,kurtosi)
 importFrom(psych,skew)
 importFrom(sur,se.skew)
